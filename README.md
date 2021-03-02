@@ -50,3 +50,6 @@ FROM `bigquery-public-data.chicago_taxi_trips.taxi_trips` LIMIT 1000
 SELECT max(tips)
 FROM `bigquery-public-data.chicago_taxi_trips.taxi_trips` LIMIT 1000
 999.99
+
+
+
